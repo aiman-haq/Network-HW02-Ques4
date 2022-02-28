@@ -1,3 +1,6 @@
+# resource used:
+#https://www.geeksforgeeks.org/erdos-renyl-model-generating-random-graphs/
+
 import networkx as nx
 import math
 import matplotlib.pyplot as plt
